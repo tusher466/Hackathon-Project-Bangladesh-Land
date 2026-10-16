@@ -1,0 +1,6 @@
+{
+  "name": "Bangladesh Integrated Land Services Portal (BILSP)",
+  "description": "One Platform. All Land Services. Transparent Land Administration. বাংলাদেশ সমন্বিত ভূমি সেবা পোর্টাল।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
